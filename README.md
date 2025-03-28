@@ -10,7 +10,8 @@ Soy un estudiante de Ingeniería Informática apasionado por la programación y 
 
 📚 Bases de Datos: MySQL, SQL.
 
-🛠️ Frameworks y Librerías: React, Angular, Astro.
+🛠️ Frameworks y Librerías en aprednizaje: React, Angular, Astro , Laravel , SpringBoot.
+
 
 💡 Sobre mí
 
@@ -20,19 +21,6 @@ Soy un estudiante de Ingeniería Informática apasionado por la programación y 
 
 ✅ Disfruto resolviendo problemas y optimizando código.
 
-👨‍💻 Conéctate conmigo
-
-Puedes encontrarme en:
-
-LinkedIn (Agrega tu enlace)
-
-GitHub (Tu perfil de GitHub)
-
-Twitter (Si tienes una cuenta técnica)
 
 ¡Gracias por visitar mi perfil! ✨
 
-
-Alvarojrzz/Alvarojrzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
