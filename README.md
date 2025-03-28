@@ -6,11 +6,11 @@ Soy un estudiante de Ingeniería Informática apasionado por la programación y 
 
 💻 Lenguajes de Programación: Java, Python, C, C#, PHP, JavaScript, SQL, PL/SQL, CUDA.
 
-🌐 Desarrollo Web: HTML, CSS, JavaScript, PHP.
+🌐 Desarrollo Web: HTML, CSS, JavaScript, PHP , Tailwind CSS.
 
 📚 Bases de Datos: MySQL, SQL.
 
-🛠️ Frameworks y Librerías en aprednizaje: React, Angular, Astro , Laravel , SpringBoot.
+🛠️ Frameworks y Librerías en aprendizaje: React, Angular, Astro , Laravel , SpringBoot.
 
 
 💡 Sobre mí
